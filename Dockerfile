@@ -1,4 +1,5 @@
 RUN
 INT
 DATE
+COMMAND
 
