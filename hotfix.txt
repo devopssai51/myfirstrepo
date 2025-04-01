@@ -1,0 +1,2 @@
+This is hotfix file created for fixing the errors in main code.
+
